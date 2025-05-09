@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Ferreira, tenho 22 anos e sou natural do Rio de Janeiro.
+Eu me chamo Gabriel Ferreira, tenho 22 anos e sou natural do Rio de Janeiro.
 Atualmente, estou cursando bacharel em **Engenharia de Software** na Anhanguera.
 <br>
 Sou apaixonado por tecnologia e pela bíblia, e compartilho meu conhecimento no meu instagram "[Gabriel Ferreira](https://www.instagram.com/ferreiraz_03)", onde levo os ensinamentos bíblicos que eu tenho.
